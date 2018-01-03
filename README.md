@@ -1,1 +1,1 @@
-# react-native-evergrandeDemo
+# react-native-evergrandeview
